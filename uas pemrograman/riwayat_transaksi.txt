@@ -1,0 +1,6 @@
+[2026-11-24 17:41:04] TRANSAKSI
+  beras x10 = Rp 100.000
+  Subtotal: Rp 100.000
+  Diskon  : Rp 5.000
+  TOTAL   : Rp 95.000
+
